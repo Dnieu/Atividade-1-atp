@@ -1,0 +1,7 @@
+C:\Users\1658699\source\repos\Trabalho 1\Atividade 5\bin\Debug\Atividade 5.exe.config
+C:\Users\1658699\source\repos\Trabalho 1\Atividade 5\bin\Debug\Atividade 5.exe
+C:\Users\1658699\source\repos\Trabalho 1\Atividade 5\bin\Debug\Atividade 5.pdb
+C:\Users\1658699\source\repos\Trabalho 1\Atividade 5\obj\Debug\Atividade 5.csproj.AssemblyReference.cache
+C:\Users\1658699\source\repos\Trabalho 1\Atividade 5\obj\Debug\Atividade 5.csproj.CoreCompileInputs.cache
+C:\Users\1658699\source\repos\Trabalho 1\Atividade 5\obj\Debug\Atividade 5.exe
+C:\Users\1658699\source\repos\Trabalho 1\Atividade 5\obj\Debug\Atividade 5.pdb

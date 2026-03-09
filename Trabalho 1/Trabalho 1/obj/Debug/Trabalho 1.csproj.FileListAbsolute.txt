@@ -1,0 +1,7 @@
+C:\Users\1658699\source\repos\Trabalho 1\Trabalho 1\obj\Debug\Trabalho 1.csproj.AssemblyReference.cache
+C:\Users\1658699\source\repos\Trabalho 1\Trabalho 1\obj\Debug\Trabalho 1.csproj.CoreCompileInputs.cache
+C:\Users\1658699\source\repos\Trabalho 1\Trabalho 1\bin\Debug\Trabalho 1.exe.config
+C:\Users\1658699\source\repos\Trabalho 1\Trabalho 1\bin\Debug\Trabalho 1.exe
+C:\Users\1658699\source\repos\Trabalho 1\Trabalho 1\bin\Debug\Trabalho 1.pdb
+C:\Users\1658699\source\repos\Trabalho 1\Trabalho 1\obj\Debug\Trabalho 1.exe
+C:\Users\1658699\source\repos\Trabalho 1\Trabalho 1\obj\Debug\Trabalho 1.pdb
